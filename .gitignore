@@ -1,0 +1,29 @@
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+*.launch
+
+# CubeIDE build outputs (часто встречаютс€ такие папки)
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# ќбщие артефакты компил€ции
+*.o
+*.a
+*.d
+*.su
+*.map
+*.elf
+*.hex
+*.bin
+*.lst
+
+# »ндексы/временные
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
